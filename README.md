@@ -1,5 +1,5 @@
 
-# To-Do List App
+# (Created with Copilot) To-Do List App
 
 A Next.js + Tailwind CSS to-do list app. Features:
 - Add, edit, delete tasks (red trash can icon)
